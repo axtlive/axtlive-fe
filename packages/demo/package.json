@@ -18,5 +18,8 @@
   },
   "scripts": {
     "test": "node ./__tests__/@axtlive-fe/demo.test.js"
+  },
+  "dependencies": {
+    "@axtlive-fe/utils": "*"
   }
 }
